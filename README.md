@@ -1,1 +1,2 @@
-# Onboarding
+Duke Robotics Club Onboarding
+====================
