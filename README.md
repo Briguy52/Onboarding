@@ -11,11 +11,11 @@ Read through all this stuff before you attend your first meeting to get up to sp
 ##Account and Mailing list setup
 Send info@duke-robotics.com an email with subject 'onboadring.' Include this info:
 
-1. Mailing list email: <YOUR_EMAIL>
-2. Google Drive access: <YOUR_GOOGLE_EMAIL>
-3. Trello access: <YOUR_TRELLO_USERNAME>
-4. Github private repos access: <YOUR_GITHUB_USERNAME>
-5. Team interest: Your primary team interest. [See below.]#Teams
+1. Mailing list email: `<YOUR_EMAIL>
+2. Google Drive access: `<YOUR_GOOGLE_EMAIL>
+3. Trello access: `<YOUR_TRELLO_USERNAME>
+4. Github private repos access: `<YOUR_GITHUB_USERNAME>
+5. Team interest: Your primary team interest. [See below.](#Teams)
 
 ##Meetings
 Most current meeting times can be found on [our website](http://duke-robotics.com) and from annoucments on our mailing list.
