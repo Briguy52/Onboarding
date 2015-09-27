@@ -5,8 +5,8 @@ Read through all this stuff before you attend your first meeting to get up to sp
 [Review our club info presentation]https://docs.google.com/presentation/d/1RQIc8EldAAQ99REkC855iQFCckuUpZWeVAmKTiiDbf4/edit#slide=id.p
 
 ##Robosub Project
-[Project Roles Chart]https://docs.google.com/presentation/d/1t-EDT5PghlroS16bt0Be6txdHSr_BEzqeh3mPqnBaJg/edit#slide=id.p4
-[Competition Rules and Intro]http://higherlogicdownload.s3.amazonaws.com/AUVSI/fb9a8da0-2ac8-42d1-a11e-d58c1e158347/UploadedFiles/RoboSub%20Competition%20Official%20Rules%20and%20Mission%20-%202015.pdf
+-[Project Roles Chart]https://docs.google.com/presentation/d/1t-EDT5PghlroS16bt0Be6txdHSr_BEzqeh3mPqnBaJg/edit#slide=id.p4
+-[Competition Rules and Intro]http://higherlogicdownload.s3.amazonaws.com/AUVSI/fb9a8da0-2ac8-42d1-a11e-d58c1e158347/UploadedFiles/RoboSub%20Competition%20Official%20Rules%20and%20Mission%20-%202015.pdf
 
 ##Account and Mailing list setup
 Send info@duke-robotics.com an email with subject 'onboadring.' Include this info:
