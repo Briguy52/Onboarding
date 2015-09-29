@@ -27,3 +27,5 @@ On your newly created virtual machine...
 * Run ```gui.py``` from eclipse to verify that your installation is working properly (if eclipse doesn't recognize the kivy package, close and reopen eclipse)
 
 If you have any trouble with any of this don't hesitate to call Austin McKee at **(423) 972-3753** at *anytime*. He's always happy to answer any questions you have day or night.
+
+[Main Page](https://github.com/DukeRobotics/Onboarding#duke-robotics-club-onboarding)

@@ -18,3 +18,5 @@ To get up to speed, please go to the [RoboSub website] (http://www.auvsifoundati
 As of now, the software of modelling has not yet been chosen.  Check back in a couple of days for further information and instructions as for software installation.
 
 Email Mark Chen (mark.j.chen@duke.edu) for more information about the testing team!
+
+[Main Page](https://github.com/DukeRobotics/Onboarding#duke-robotics-club-onboarding)
